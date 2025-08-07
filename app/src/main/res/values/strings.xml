@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Post Todo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Md. Raju Mia</string>
+    <string name="nav_header_subtitle">raju.iit3@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_post">Post</string>
+    <string name="menu_todo">Todo</string>
+    <string name="loading">Loading...</string>
+</resources>
